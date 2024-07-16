@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EBBBAF17-2DF1-4C27-B763-D1C0E6598ABD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Resnhu_2.My.MyApplication</StartupObject>
+    <RootNamespace>Resnhu_2</RootNamespace>
+    <AssemblyName>Resnhu 2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Resnhu 2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Resnhu 2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adminis.Designer.vb">
+      <DependentUpon>Adminis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Adminis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAccount.Designer.vb">
+      <DependentUpon>CreateAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CreateAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editus.Designer.vb">
+      <DependentUpon>Editus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Editus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTry.Designer.vb">
+      <DependentUpon>FormTry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gantipas.Designer.vb">
+      <DependentUpon>gantipas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gantipas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Glob.Designer.vb">
+      <DependentUpon>Glob.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Glob.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gudang.Designer.vb">
+      <DependentUpon>Gudang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gudang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.vb">
+      <DependentUpon>HomePage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InBara.Designer.vb">
+      <DependentUpon>InBara.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InBara.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Irreguler.Designer.vb">
+      <DependentUpon>Irreguler.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Irreguler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Keranjang.Designer.vb">
+      <DependentUpon>Keranjang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Keranjang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laporan.Designer.vb">
+      <DependentUpon>laporan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogActivity.Designer.vb">
+      <DependentUpon>LogActivity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogActivity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPage.Designer.vb">
+      <DependentUpon>LoginPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Market.Designer.vb">
+      <DependentUpon>Market.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Market.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PerbaikanKrn.Designer.vb">
+      <DependentUpon>PerbaikanKrn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PerbaikanKrn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransaksiLanjut.Designer.vb">
+      <DependentUpon>TransaksiLanjut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransaksiLanjut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Adminis.resx">
+      <DependentUpon>Adminis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateAccount.resx">
+      <DependentUpon>CreateAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editus.resx">
+      <DependentUpon>Editus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTry.resx">
+      <DependentUpon>FormTry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gantipas.resx">
+      <DependentUpon>gantipas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Glob.resx">
+      <DependentUpon>Glob.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gudang.resx">
+      <DependentUpon>Gudang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InBara.resx">
+      <DependentUpon>InBara.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Irreguler.resx">
+      <DependentUpon>Irreguler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Keranjang.resx">
+      <DependentUpon>Keranjang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan.resx">
+      <DependentUpon>laporan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogActivity.resx">
+      <DependentUpon>LogActivity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPage.resx">
+      <DependentUpon>LoginPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Market.resx">
+      <DependentUpon>Market.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerbaikanKrn.resx">
+      <DependentUpon>PerbaikanKrn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransaksiLanjut.resx">
+      <DependentUpon>TransaksiLanjut.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,52 @@
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\bin\Debug\Resnhu 2.exe
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\bin\Debug\Resnhu 2.pdb
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\bin\Debug\Resnhu 2.xml
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.HomePage.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.LoginPage.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Resources.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.vbproj.GenerateResource.Cache
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.exe
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.xml
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.pdb
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.CreateAccount.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Gudanga.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Keranjang.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.laporan.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Market.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Glob.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.TransaksiLanjut.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Editus.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.LogActivity.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Adminis.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Irreguler.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.InBara.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.PerbaikanKrn.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.gantipas.resources
+D:\Resnhu Wabi\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.FormTry.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\bin\Debug\Resnhu 2.exe
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\bin\Debug\Resnhu 2.pdb
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\bin\Debug\Resnhu 2.xml
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.vbproj.AssemblyReference.cache
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Adminis.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.CreateAccount.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Editus.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.FormTry.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.gantipas.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Glob.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Gudanga.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.HomePage.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.InBara.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Irreguler.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Keranjang.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.laporan.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.LogActivity.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.LoginPage.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Market.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.Resources.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.PerbaikanKrn.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu_2.TransaksiLanjut.resources
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.vbproj.GenerateResource.cache
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.vbproj.CoreCompileInputs.cache
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.exe
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.xml
+D:\Resnhu Neord\Resnhu 2\Resnhu 2\obj\x86\Debug\Resnhu 2.pdb

@@ -1,0 +1,9 @@
+D:\Resnhu Wabi\Market\Market\bin\Debug\Market.exe
+D:\Resnhu Wabi\Market\Market\bin\Debug\Market.pdb
+D:\Resnhu Wabi\Market\Market\bin\Debug\Market.xml
+D:\Resnhu Wabi\Market\Market\obj\x86\Debug\Market.Form1.resources
+D:\Resnhu Wabi\Market\Market\obj\x86\Debug\Market.Resources.resources
+D:\Resnhu Wabi\Market\Market\obj\x86\Debug\Market.vbproj.GenerateResource.Cache
+D:\Resnhu Wabi\Market\Market\obj\x86\Debug\Market.exe
+D:\Resnhu Wabi\Market\Market\obj\x86\Debug\Market.xml
+D:\Resnhu Wabi\Market\Market\obj\x86\Debug\Market.pdb

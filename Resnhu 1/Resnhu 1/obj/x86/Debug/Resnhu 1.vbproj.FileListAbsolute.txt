@@ -1,0 +1,9 @@
+D:\Resnhu Wabi\Resnhu 1\Resnhu 1\bin\Debug\Resnhu 1.exe
+D:\Resnhu Wabi\Resnhu 1\Resnhu 1\bin\Debug\Resnhu 1.pdb
+D:\Resnhu Wabi\Resnhu 1\Resnhu 1\bin\Debug\Resnhu 1.xml
+D:\Resnhu Wabi\Resnhu 1\Resnhu 1\obj\x86\Debug\Resnhu_1.Form1.resources
+D:\Resnhu Wabi\Resnhu 1\Resnhu 1\obj\x86\Debug\Resnhu_1.Resources.resources
+D:\Resnhu Wabi\Resnhu 1\Resnhu 1\obj\x86\Debug\Resnhu 1.vbproj.GenerateResource.Cache
+D:\Resnhu Wabi\Resnhu 1\Resnhu 1\obj\x86\Debug\Resnhu 1.exe
+D:\Resnhu Wabi\Resnhu 1\Resnhu 1\obj\x86\Debug\Resnhu 1.xml
+D:\Resnhu Wabi\Resnhu 1\Resnhu 1\obj\x86\Debug\Resnhu 1.pdb

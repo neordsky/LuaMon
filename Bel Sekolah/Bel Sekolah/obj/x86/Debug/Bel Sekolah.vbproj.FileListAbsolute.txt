@@ -1,0 +1,20 @@
+D:\Resnhu Wabi\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+D:\Resnhu Wabi\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+D:\Resnhu Wabi\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.xml
+D:\Resnhu Wabi\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Form1.resources
+D:\Resnhu Wabi\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Resources.resources
+D:\Resnhu Wabi\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.GenerateResource.Cache
+D:\Resnhu Wabi\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.exe
+D:\Resnhu Wabi\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.xml
+D:\Resnhu Wabi\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.pdb
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.exe
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.xml
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.pdb
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.xml
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Form1.resources
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Resources.resources
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.GenerateResource.Cache
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Edit_Jadwa_l.resources
+D:\Resnhu Neord\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.NavigasiFor.resources

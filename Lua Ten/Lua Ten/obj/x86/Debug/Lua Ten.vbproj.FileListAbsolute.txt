@@ -1,0 +1,11 @@
+D:\Resnhu Neord\Lua Ten\Lua Ten\bin\Debug\Lua Ten.exe
+D:\Resnhu Neord\Lua Ten\Lua Ten\bin\Debug\Lua Ten.pdb
+D:\Resnhu Neord\Lua Ten\Lua Ten\bin\Debug\Lua Ten.xml
+D:\Resnhu Neord\Lua Ten\Lua Ten\obj\x86\Debug\Lua_Ten.Beranda.resources
+D:\Resnhu Neord\Lua Ten\Lua Ten\obj\x86\Debug\Lua_Ten.Favorite.resources
+D:\Resnhu Neord\Lua Ten\Lua Ten\obj\x86\Debug\Lua_Ten.Form1.resources
+D:\Resnhu Neord\Lua Ten\Lua Ten\obj\x86\Debug\Lua_Ten.Resources.resources
+D:\Resnhu Neord\Lua Ten\Lua Ten\obj\x86\Debug\Lua Ten.vbproj.GenerateResource.Cache
+D:\Resnhu Neord\Lua Ten\Lua Ten\obj\x86\Debug\Lua Ten.exe
+D:\Resnhu Neord\Lua Ten\Lua Ten\obj\x86\Debug\Lua Ten.xml
+D:\Resnhu Neord\Lua Ten\Lua Ten\obj\x86\Debug\Lua Ten.pdb
